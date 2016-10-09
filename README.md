@@ -21,3 +21,16 @@ FLUSH PRIVILEGES;
 ````terminal
 sudo 
 ````
+
+```git
+git init 
+```
+
+```js
+function () { return "This code is highlighted as Javascript!"}
+```
+
+```csharp
+private void index(){
+  MessageBox.Show("hello world");
+}
