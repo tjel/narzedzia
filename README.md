@@ -18,9 +18,9 @@ This is a custom prefix command example:
 FLUSH PRIVILEGES;
 ```
 
-````terminal
+```terminal
 sudo 
-````
+```
 
 ```git
 git init 
