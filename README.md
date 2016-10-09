@@ -5,6 +5,7 @@ This is a non-root user command example:
 ```command
 sudo apt-get update
 ```
+---
 
 This is a root command example:
 
